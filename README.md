@@ -8,7 +8,8 @@ Automate candidate assessments.
 Ensure unbiased, consistent, and objective evaluation.
 Save valuable time and resources for HR teams by eliminating manual interview reviews.
 Features
-AI-Powered Interviews: The system conducts interviews by asking predefined questions and evaluates responses using natural language processing (NLP) and keyword matching.
+## AI-Powered Interviews: 
+The system conducts interviews by asking predefined questions and evaluates responses using natural language processing (NLP) and keyword matching.
 Automated Scoring: AI compares candidate answers to ideal responses and provides a score based on relevance and accuracy.
 Consistency & Fairness: All candidates are evaluated by the same criteria, ensuring unbiased assessments.
 Time-Saving: Speeds up the hiring process by automating initial interviews and evaluations.
